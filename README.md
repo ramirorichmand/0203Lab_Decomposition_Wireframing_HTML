@@ -25,3 +25,8 @@ The first step I took was to break down an existing website using Dev Tools.
   - Profile Picture (File upload that only accepts `.png` file type)
   - Bio Textarea
   - Age (Number)
+  
+## Random Extra Additions! 😆
+
+- Had a lot of fun with this task, so added a third page 'Featured Product of the Week,' with an add to cart function. 
+  
