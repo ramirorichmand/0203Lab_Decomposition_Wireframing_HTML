@@ -16,11 +16,11 @@ The first step I took was to break down an existing website using Dev Tools.
   - Footer
 - Re-created this Wireframe using HTML and semantic elements. I included the semantic element for `header`, `nav`, `section`, and `footer`.
 
-## Extensions - Later
+## Extensions
 
-- Create a second page for your shiny new website
-- Use the same Header, Navigation, and Footer from the first page
-- Add a sign-up form to that web page that contains the following inputs:
+- Created a second page for my shiny new website
+- Used the same Header, Navigation, and Footer from the first page
+- Added a sign-up form to that web page that contained the following inputs:
   - Email
   - Profile Picture (File upload that only accepts `.png` file type)
   - Bio Textarea
