@@ -9,7 +9,7 @@ The first step I took was to break down an existing website using Dev Tools.
 ## MVP
 
 - Found a website that I liked the look of that had interesting design elements
-- Created a simple high-level wireframe for the website. Used a tool like Figma, Miro and even draw it yourself. It included the following:
+- Created a simple high-level wireframe for the website. Used a variety of tools like Figma, Miro but decided to draw it myself. It included the following:
   - Header
   - Navigation
   - Section
